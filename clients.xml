@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clients>
+    <client>
+        <lastName>Zous</lastName>
+        <firstName>Adrien</firstName>
+        <age>25</age>
+        <profession>informaticien</profession>
+        <salary>35</salary>
+    </client>
+    <client>
+        <lastName>Ducroc</lastName>
+        <firstName>Mathilde</firstName>
+        <age>32</age>
+        <profession>informaticien</profession>
+        <salary>38</salary>
+    </client>
+    <client>
+        <lastName>Joy</lastName>
+        <firstName>Bruno</firstName>
+        <age>29</age>
+        <profession> comptable</profession>
+        <salary>33</salary>
+    </client>
+    <client>
+        <lastName>Basr</lastName>
+        <firstName>Julien</firstName>
+        <age>43</age>
+        <profession>policier</profession>
+        <salary>24</salary>
+    </client>
+    <client>
+        <lastName>Bouaz</lastName>
+        <firstName>Teff</firstName>
+        <age>52</age>
+        <profession>boulanger</profession>
+        <salary>45</salary>
+    </client>
+    <client>
+        <lastName>Leroy</lastName>
+        <firstName>Ben</firstName>
+        <age>48</age>
+        <profession>comptable</profession>
+        <salary>26</salary>
+    </client>
+    <client>
+        <lastName>Beroy</lastName>
+        <firstName>Celine</firstName>
+        <age>28</age>
+        <profession>comptable</profession>
+        <salary>37</salary>
+    </client>
+</clients>
